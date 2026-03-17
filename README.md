@@ -26,7 +26,7 @@ Sunix Thingy 3
 - Sunix Thingy 3
 
 
-The list above requires the Geode mod named Texture Loader by the Geode Team
+The list above requires Geode and the Geode mod named Texture Loader by the Geode Team
   
   
   
