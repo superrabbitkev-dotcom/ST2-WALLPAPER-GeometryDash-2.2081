@@ -1,3 +1,7 @@
+Sunix Thingy 3
+
+<img width="2559" height="1387" alt="image" src="https://github.com/user-attachments/assets/703986bb-e99c-4f54-93fa-565099c7e401" />
+
 1. Dependancies
 - Geode
 - Tecture Loader By the Geode Team
